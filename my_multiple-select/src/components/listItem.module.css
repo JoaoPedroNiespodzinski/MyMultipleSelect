@@ -1,0 +1,10 @@
+.container {
+    padding: 2% 3%;
+    cursor: pointer;
+}
+.container:hover{
+    background-color: lightblue;
+}
+.nenhumResultado{
+    padding: 2% 3%;
+}
